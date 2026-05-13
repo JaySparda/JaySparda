@@ -34,13 +34,6 @@
 
 ---
 
-## 🕺 Friday Night Stats
-*Even a Patriarch needs to keep their rhythm.*
-
-![](https://media.tenor.com/QQoT25duHp0AAAAM/yakuza-disco.gif)
-
-![My Stats](https://github-stats-extended.vercel.app/api?username=JaySparda&show_icons=true&theme=tokyonight)
-
 ## 📞 Get In Touch
 * **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/loh-yong-sheng-63b42333b/?isSelfProfile=true)
 * **GitHub** [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge)](https://github.com/JaySparda)
